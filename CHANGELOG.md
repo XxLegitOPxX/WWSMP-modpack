@@ -8,3 +8,6 @@
    also use Full. Optional mods can be added no matter what installation the
    server is using.
  - NOTE: Medium and optional mod installations are still heavily unfinished.
+
+# v0.2.1 - 2023-12-17
+- Removed mods folder
