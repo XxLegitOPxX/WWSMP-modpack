@@ -21,3 +21,14 @@
 - Added 2 CurseForge packs (with and without shaders).
 - Added instructions (SETUP.txt) inside *client.zip.
 - Emptied Medium installations to reduce file size.
+
+# v0.4.0-beta - 2023-12-27
+- Beta testing stage!
+- Renamed the repository to "WWSMP-modpack".
+- Modified README.md to reflect repo name change.
+- Removed Full, Medium and Optional mod installations for sake of simplicity.
+  Instead, only the "full" installation will be in releases from now on.
+  If you want optional mods you'll have to download them directly from the
+  "main" branch.
+- The "cf-shaders" modpack zip will no longer be provided in releases.
+- Shortened the names of all modpack zips.
