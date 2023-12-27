@@ -1,2 +1,2 @@
-# WWSMP-mods
-Mods for the WorldWarSMP server
+# WWSMP-modpack
+Modpack for the WorldWarSMP server.
