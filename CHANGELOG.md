@@ -32,3 +32,8 @@
   "main" branch.
 - The "cf-shaders" modpack zip will no longer be provided in releases.
 - Shortened the names of all modpack zips.
+
+# v0.5.0-beta - 2023-12-28
+- Fixed the modpack not allowing you to join the WWSMP server (I forgot to
+  provide the `kubejs` folder).
+- Added the "Building Wands" mod (currently only for admin use).
