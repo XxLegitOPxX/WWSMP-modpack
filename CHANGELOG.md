@@ -37,3 +37,7 @@
 - Fixed the modpack not allowing you to join the WWSMP server (I forgot to
   provide the `kubejs` folder).
 - Added the "Building Wands" mod (currently only for admin use).
+
+# v0.6.0-beta - 2024-01-01
+- Added CGM compat to skills mod (Rereskillable Rereforked).
+- Made keybinds conflict a lot less.
