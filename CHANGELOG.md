@@ -57,5 +57,5 @@ Changelog:
 - Added Xaero's Minimap, World Map and Open PAC mods.
 - Moved Embeddium to optionals (it was causing the invis blocks bug on ships).
 - Moved all client-side *gameplay enhancement mods* to optionals.
-- Added `server.dat` as part of releases (so you can quick-join the server
+- Added `servers.dat` as part of releases (so you can quick-join the server
 after installation).
