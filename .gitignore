@@ -1,5 +1,5 @@
 *.bat
-releases
+.releases
 server
 mods
 LOCAL_CHANGELOG.md
