@@ -43,7 +43,7 @@
 - Made keybinds conflict a lot less.
 
 # v0.7.0-beta - 2024-01-06
-WARNING: Installing a new modpack version will *overwrite* your Xaero's
+**WARNING**: Installing a new modpack version will *overwrite* your Xaero's
 Minimap/World Map data. It is recommended to manually back this data up
 *before* installing a new modpack version, otherwise you should consider
 manually installing the mods from the main branch.
