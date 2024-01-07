@@ -60,3 +60,4 @@ Changelog:
 - Added `servers.dat` as part of releases (so you can quick-join the server
 after installation).
 - Removed Map Atlases (its useless and sometimes causes crashes when opening).
+- Removed GameStages (we have kubejs instead).
