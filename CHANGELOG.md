@@ -61,3 +61,29 @@ Changelog:
 after installation).
 - Removed Map Atlases (its useless and sometimes causes crashes when opening).
 - Removed GameStages (we have kubejs instead).
+
+# v1.0.0 - 2024-04-06
+- Set spawn radius to 500 as opposed to 1000.
+- Changed player night skip percentage from 100% to 50%.
+- Changed claims config options so that only a few are configurable by players.
+- Made players' claims invisible to non-party-members.
+- Made the following temperature changes:
+ - Climate Clemency (immunity to temperature changes) is **10 minutes** now as opposed to 5,
+ - Equipping armour will change your temperature within **2 seconds**,
+ - Holding an item that changes your temperature (torches? idrk) will change your temperature within **4 seconds**,
+ - It takes **4 minutes** for your temperature to change (e.g. entering a savanna after being in plains, will make you reach extremity temperature),
+ - Once the fire/snowflake icon appears (reached extremity temperature), you have **1 minute** to lower your temperature before you start taking damage,
+ - Rebounding from an extreme temperature (e.g. jumping into water after the fire icon appeared) takes **2 seconds**,
+
+- Removed the following mods for balancing or being useless reasons:
+ - Create: Steam Powered Revived
+ - Realistic Torches
+ - Rereskillable Rereforked (skills/levels)
+ - MrCrayfish's Gun Mod
+ - NineZero's Gun Expansion
+- Added Create: Big Cannons mod.
+- Updated Xaero's Minimap and Xaero's WorldMap mods.
+- Updated Inventory Profiles Next and libIPN mods.
+- Updated Embeddium (optional client mod).
+- Made Embeddium no longer an optional client mod.
+- Cleaned up the `config` folder a bit.
