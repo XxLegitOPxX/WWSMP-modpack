@@ -89,3 +89,27 @@ Removed the following mods for balancing or being useless:
 - Rereskillable Rereforked (skills/levels)
 - MrCrayfish's Gun Mod
 - NineZero's Gun Expansion
+
+# v1.1.0 - 2024-04-25
+Mods removed from Shared:
+- Create: Crystal Clear
+- More Villagers + compat datapack
+- Guard Villagers
+- Spyglass Improvements
+- Global GameRules
+- Rough Tweaks Revamped
+- Cosmetic Armor Reworked
+- SkinChanger
+
+Mods removed from Client:
+- Global Packs
+
+Shared Mods made optional:
+- Just Enough Professions (JEP)
+- Just Enough Resources (JER)
+- spark
+
+Client Mods made optional:
+- Not Enough Animations
+- Catalogue
+- Configured
