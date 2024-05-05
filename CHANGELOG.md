@@ -113,3 +113,7 @@ Client Mods made optional:
 - Not Enough Animations
 - Catalogue
 - Configured
+
+# v1.2.0 - 2024-05-05
+- Added Xaero's Minimap Fairplay version
+- Updated Eureka and Xaero's WorldMap
