@@ -117,3 +117,9 @@ Client Mods made optional:
 # v1.2.0 - 2024-05-05
 - Added Xaero's Minimap Fairplay version
 - Updated Eureka and Xaero's WorldMap
+
+# v1.3.0 - 2024-05-14
+- Added Zombie Awareness, Chunk Loaders and Armor Trims Backport
+- Added an addon for Valkyrien Skies that adds a craftable "assembly gun" which improves ship assembly
+- Updated Valkyrien Skies, Eureka, and "Open Parties and Claims"
+- Removed Create: Chunkloading in favor of Chunk Loaders
