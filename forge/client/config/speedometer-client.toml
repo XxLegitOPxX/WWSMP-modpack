@@ -1,0 +1,28 @@
+
+[client]
+	#If the speedomiter shuld be shown or not
+	show = true
+	#The color you wish for the text that is displaid
+	color = "10929e"
+	#Shuld it display the spped in know when in a boat
+	"use knot in boat" = true
+	#The speed type to use
+	#Blocks/s
+	#km/h
+	#mph
+	#m/s
+	#Will defualt to m/s
+	speedType = "m/s"
+	#X position of the speedometer
+	#W = the width of the screen
+	#w = half the width of the screen
+	xPos = "W-70"
+	#Y position of the speedometer
+	#H = the height of the screen
+	#h = half the height of the screen
+	yPos = "H-15"
+	#That maximum number of saved speeds
+	#higher might flaten the inconsistensy but may also increse ram usage
+	#Range: > 0
+	maxSampelSize = 30
+

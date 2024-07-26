@@ -1,0 +1,27 @@
+name: packwiz installer github pages
+
+on:
+  push:
+    tags: ["*"]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v3
+
+      - name: Prepare deployment folders
+        run: |
+          mkdir -p deployment
+          cp -r client deployment/
+          cp -r server deployment/
+          cp -r testing deployment/
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./deployment
+          publish_branch: gh-pages

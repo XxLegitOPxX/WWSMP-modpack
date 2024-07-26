@@ -1,0 +1,13 @@
+name = "MakeUp - Ultra Fast | Shaders"
+filename = "MakeUp-UltraFast-9.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "630929295ee7342b8db23aabfafbe421dcdb36d2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5553116
+project-id = 431203

@@ -1,0 +1,13 @@
+name = "WorldWarSMP"
+author = "XxLegitOPxX"
+version = "2.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "fec8aa2e9e1ae7abbccc917a69f4cb43f0e220cec8ebfd0bc205e24d9d4d85f7"
+
+[versions]
+forge = "47.3.0"
+minecraft = "1.20.1"

@@ -1,5 +1,8 @@
-*.bat
-.releases
-server
-mods
-LOCAL_CHANGELOG.md
+/.scripts
+/.releases
+/server
+/mods
+/LOCAL_CHANGELOG.md
+
+*.mrpack
+*.zip
