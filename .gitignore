@@ -1,8 +1,4 @@
-/.scripts
-/.releases
-/server
-/mods
-/LOCAL_CHANGELOG.md
+.scripts/wwsmp-pygsheets-428223-95a542d6b1db.json
 
 *.mrpack
 *.zip
