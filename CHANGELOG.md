@@ -51,7 +51,7 @@
 
 # v0.7.0-beta - 2024-01-06
 
-**WARNING**: Installing a new modpack version will _overwrite_ your Xaero's
+WARNING: Installing a new modpack version will _overwrite_ your Xaero's
 Minimap/World Map data. It is recommended to manually back this data up
 _before_ installing a new modpack version, otherwise you should consider
 manually installing the mods from the main branch.
@@ -71,6 +71,7 @@ Changelog:
   after installation).
 - Removed Map Atlases (its useless and sometimes causes crashes when opening).
 - Removed GameStages (we have kubejs instead).
+- Renamed "releases" to ".releases"
 
 # v1.0.0 - 2024-04-06
 
