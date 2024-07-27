@@ -305,38 +305,6 @@ file = "config/zombieawareness/PlayerRulesAndLists.toml"
 hash = "e766740f523b7da0d0cdc9db47f6e69c16489509c6b5e1eee63742c295f5f508"
 
 [[files]]
-file = "kubejs/README.txt"
-hash = "02d6feb3afe1d9c96e137f8baaa71de982f1af0a2b37fbcba73f34ee59ebbd4d"
-
-[[files]]
-file = "kubejs/config/client.properties"
-hash = "b546b552d055c7f5e2bc91e6ff11abffc1f35f37e5f93e13052479b869a6cbd8"
-
-[[files]]
-file = "kubejs/config/common.properties"
-hash = "1a57c0702fe0c0fce96ffb21fff33be872d037626e04d4018447499a6be6f997"
-
-[[files]]
-file = "kubejs/config/probejs.json"
-hash = "2d27c39d5c7a1125cb00dc6406ec9ccf4b499e00c4017b65e74f1ea75a78c824"
-
-[[files]]
-file = "kubejs/server_scripts/block_interaction_prohibitor.js"
-hash = "d9fbe686ec2194a650269631e1b505bcfb3351474c9f50db4cfab99a5bc6a8e6"
-
-[[files]]
-file = "kubejs/server_scripts/recipe_changer.js"
-hash = "56120f3286350471691678391546e3a407dfc6da624f3a8395c457514e78518d"
-
-[[files]]
-file = "kubejs/server_scripts/script.js"
-hash = "8d05a32e4322a7343eec6b75f48ccecdbcd2c117d8d935a5c23187f316c6ec75"
-
-[[files]]
-file = "kubejs/server_scripts/welcomer.js"
-hash = "da0f532fddd26a4d99cb4996ea64b0792bf589a4fb7157d4030eb30c7ad55a22"
-
-[[files]]
 file = "mods/additional-additions-forge.pw.toml"
 hash = "624a45bd6287e67799f3c2c21f2abbce85cb9f082df3fb5be714574d15788b2e"
 metafile = true
