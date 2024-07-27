@@ -251,6 +251,18 @@ def install(args):
         install_sheet("shared")
 
 
+def refresh(args):
+    side = args.refresh[0]
+
+    if not side in SIDES:
+        error("Invalid side")
+
+    old_cwd = os.getcwd()
+    os.chdir(f"{MODLOADER}/{side}")
+    subprocess.run(f"packwiz refresh")
+    os.chdir(old_cwd)
+
+
 def main():
     parser = argparse.ArgumentParser(
         description="Tool for managing mods via packwiz using Google Spreadsheets"
@@ -276,6 +288,13 @@ def main():
         metavar=("side", "only"),
         help='Installs mods for the given side (including shared, unless "only" is specified)',
     )
+    parser.add_argument(
+        "--refresh",
+        type=str,
+        nargs=1,
+        metavar=("side"),
+        help="Refreshes the pack for the given side",
+    )
 
     args = parser.parse_args()
     if args.check != None:
@@ -284,6 +303,8 @@ def main():
         clean(args)
     elif args.install != None:
         install(args)
+    elif args.refresh != None:
+        refresh(args)
 
 
 if __name__ == "__main__":
