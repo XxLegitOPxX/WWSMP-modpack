@@ -1,2 +1,4 @@
 *.mrpack
 *.zip
+
+/kubejs
