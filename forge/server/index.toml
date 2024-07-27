@@ -655,6 +655,11 @@ hash = "eab12c7fddf20f293b8726f7553d2c0c0b6c578a2ba03ddf59ae40f6e684e2ce"
 metafile = true
 
 [[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "8ccb54bebc5af2470ee2fdaf0a719efd00548b442f6641ed88f7b031207dc4cd"
+metafile = true
+
+[[files]]
 file = "mods/minecolonies.pw.toml"
 hash = "81ca24438b9a4b80204182ef72f38997a3e946884c26e225c8e18fe30cc71d85"
 metafile = true
