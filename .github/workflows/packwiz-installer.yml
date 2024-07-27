@@ -15,9 +15,7 @@ jobs:
       - name: Prepare deployment folders
         run: |
           mkdir -p deployment
-          cp -r forge/client deployment/
-          cp -r forge/server deployment/
-          cp -r forge/testing deployment/
+          cp -r forge deployment/
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
