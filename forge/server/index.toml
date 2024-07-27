@@ -5,24 +5,8 @@ file = "config/CoroUtil/General.toml"
 hash = "d86beab1176c367beeed3b8fb8a2a8dfbd8a1db7293f067c01bc38c73020e398"
 
 [[files]]
-file = "config/InventoryHUD/curios.json"
-hash = "cc7e03919fd3faf75af49c34feb2ed93b4134758747415abe53fe4335239a88d"
-
-[[files]]
-file = "config/MouseTweaks.cfg"
-hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
-
-[[files]]
 file = "config/additional-additions-config.json"
 hash = "55512d043a313861d1aadd8649c454582283b3d480ce8adb00c4a0fdd6bed89d"
-
-[[files]]
-file = "config/betterfpsdist-common.toml"
-hash = "cad1d5c52c5205e08ebd16487dea2c8bd3bed5e177c3a6967c47b05226419df9"
-
-[[files]]
-file = "config/betterpingdisplay-client.toml"
-hash = "164836730c41628abbd6a1cdc3724c3766d8204d57caa18ec31d1f90472d9326"
 
 [[files]]
 file = "config/bettervillage_1.properties"
@@ -49,10 +33,6 @@ file = "config/chunkloaders-common.toml"
 hash = "32d00ef84a71f82450eb463bdb0c7f977d6fadda7acd631023cfd3479c90439b"
 
 [[files]]
-file = "config/configured-client.toml"
-hash = "9f506cbecac3f4383c61b00d82d86ffe92b111f0a75f8b471f9ad87c27a8ba2d"
-
-[[files]]
 file = "config/create-client.toml"
 hash = "667b50af91a4312360fac0502a25f9497e745e3e321b297ed4efb6e257e81db4"
 
@@ -71,18 +51,6 @@ hash = "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
 [[files]]
 file = "config/curios-client.toml"
 hash = "9c0985b85e67e704a3640d028186dc0b220fa69404b9555244add55eaf5d4794"
-
-[[files]]
-file = "config/embeddium-mixins.properties"
-hash = "66bbef3dd895941e28db52d85ef5e8a1ecda6dc26377a47ff6dc623ece2f73fa"
-
-[[files]]
-file = "config/embeddium-options.json"
-hash = "a9c82733951e3dcea43497810f12cdbed769629d4455c067c3b910a82e5dde06"
-
-[[files]]
-file = "config/enchdesc.json"
-hash = "3707b94c4e2b2d7209c388363d6de399e2c5aa035f086f219021da7e0cb3b96b"
 
 [[files]]
 file = "config/ferritecore-mixin.toml"
@@ -107,38 +75,6 @@ hash = "7da7a8a2043c5146b6c941631b040a945281943b9ff75a25e9743291959bd2bf"
 [[files]]
 file = "config/gravestone-client.toml"
 hash = "0f7657373c8cccc3e9f11a79533c0c85c84e68762b65e5c6f9728ca9226873d3"
-
-[[files]]
-file = "config/highlighter-common.toml"
-hash = "a831f1fd23759f5669f9ac9fd82fd7b49d372359592a63a2b3142ddfdf1f2043"
-
-[[files]]
-file = "config/immediatelyfast.json"
-hash = "d001d4dca47027dffb96288efa9748417e90fd809bd689b5cdbd3ae8ac589697"
-
-[[files]]
-file = "config/inventoryhud-client.toml"
-hash = "64d9fdec43067c62579ebb836c3b7123791bbe4bc2076eed54e4261b43287ab2"
-
-[[files]]
-file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
-hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
-
-[[files]]
-file = "config/inventoryprofilesnext/integrationHints/player-defined.json"
-hash = "b7c8596d88d91fe38753d23d16df83bf9c589fef253ce8905131f7dc4527ba51"
-
-[[files]]
-file = "config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "8c7c0d80f762100eb992da940dd447b1cac0ae07002c6daed89d069df0d0941e"
-
-[[files]]
-file = "config/inventoryprofilesnext/villager-trading-config.json"
-hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
-
-[[files]]
-file = "config/itemborders-common.toml"
-hash = "57102180dc50f6991b872ccff8b04d5d6ff72b70aa1890a59d2007ec7bde4897"
 
 [[files]]
 file = "config/jade-addons.toml"
@@ -197,10 +133,6 @@ file = "config/modernfix-mixins.properties"
 hash = "082617523b883f4b8fdf31834ec431d3232dadffcdcba9d297c4e24630d6d4f7"
 
 [[files]]
-file = "config/notenoughanimations.json"
-hash = "a2ad25df3c1e9ba25c17b5b2befadb6f71f5d9e16df1106f0971a4fdb7a0c166"
-
-[[files]]
 file = "config/nyfsquiver-client.toml"
 hash = "e51321f581d0e15d2a2a0bdce2cc78024eaa5c7bc8ddcadd99a4f1ae0301e29c"
 
@@ -239,10 +171,6 @@ hash = "52d2513d4927bd4893923bf6b782dbb5d1bc32636c5438dec0eddec52c335f3c"
 [[files]]
 file = "config/spark/config.json"
 hash = "992ba9f3a4a7ce3de112eb95575328956fdc3ce6781c455ebce7b23db7e7da42"
-
-[[files]]
-file = "config/speedometer-client.toml"
-hash = "c3c4c16b43fa1686f845c8563fc84bd5443edeba0d6fabc9336fe85747c3cf82"
 
 [[files]]
 file = "config/supplementaries-client.toml"
@@ -377,32 +305,8 @@ file = "config/zombieawareness/PlayerRulesAndLists.toml"
 hash = "e766740f523b7da0d0cdc9db47f6e69c16489509c6b5e1eee63742c295f5f508"
 
 [[files]]
-file = "kubejs/.vscode/settings.json"
-hash = "1d6436f992513ae0eedfa3dc1b1dad3d106120d130dc4d494b07db593801ec07"
-
-[[files]]
 file = "kubejs/README.txt"
 hash = "02d6feb3afe1d9c96e137f8baaa71de982f1af0a2b37fbcba73f34ee59ebbd4d"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/block/example_block.png"
-hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/example_item.png"
-hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/yamato.png"
-hash = "689f1c87b49c594a7cfe333d08daeb3c9b0138322c1e217ef7db39e2daecd7e3"
-
-[[files]]
-file = "kubejs/client_scripts/ClockworkPonders.js"
-hash = "1ffda1130056087c469a45b9f0d6f2255dfbefa07308ebf362f1d8dd0af64011"
-
-[[files]]
-file = "kubejs/client_scripts/script.js"
-hash = "a78e397b0713131bf2db10bce81473bdc494efad6776ebf340c97773b5e418f9"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -417,8 +321,20 @@ file = "kubejs/config/probejs.json"
 hash = "2d27c39d5c7a1125cb00dc6406ec9ccf4b499e00c4017b65e74f1ea75a78c824"
 
 [[files]]
-file = "kubejs/startup_scripts/script.js"
-hash = "79ed2af9a7abfed6bc94c5e4022afa7bd60c3b54f277fee321ee896857f18bf6"
+file = "kubejs/server_scripts/block_interaction_prohibitor.js"
+hash = "d9fbe686ec2194a650269631e1b505bcfb3351474c9f50db4cfab99a5bc6a8e6"
+
+[[files]]
+file = "kubejs/server_scripts/recipe_changer.js"
+hash = "56120f3286350471691678391546e3a407dfc6da624f3a8395c457514e78518d"
+
+[[files]]
+file = "kubejs/server_scripts/script.js"
+hash = "8d05a32e4322a7343eec6b75f48ccecdbcd2c117d8d935a5c23187f316c6ec75"
+
+[[files]]
+file = "kubejs/server_scripts/welcomer.js"
+hash = "da0f532fddd26a4d99cb4996ea64b0792bf589a4fb7157d4030eb30c7ad55a22"
 
 [[files]]
 file = "mods/additional-additions-forge.pw.toml"
@@ -1029,3 +945,7 @@ metafile = true
 file = "mods/zombie-awareness.pw.toml"
 hash = "081b32c88849a82d01a3a98871b9860f395822179747d65812e86e9098e9cc61"
 metafile = true
+
+[[files]]
+file = "packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"

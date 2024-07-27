@@ -381,10 +381,6 @@ file = "icon.png"
 hash = "aeae7619e720d3a888525b2d559db062cbf7f2a8d3b55bcb81c12c2075c5640f"
 
 [[files]]
-file = "kubejs/.vscode/settings.json"
-hash = "1d6436f992513ae0eedfa3dc1b1dad3d106120d130dc4d494b07db593801ec07"
-
-[[files]]
 file = "kubejs/README.txt"
 hash = "02d6feb3afe1d9c96e137f8baaa71de982f1af0a2b37fbcba73f34ee59ebbd4d"
 
@@ -1137,6 +1133,10 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "ac4369b8c4f1788792cb490966f2ac5ebd8229a3875d6fc5a0486aff35566a5a"
+
+[[files]]
+file = "packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
 
 [[files]]
 file = "resourcepacks/create-computercraft.pw.toml"
