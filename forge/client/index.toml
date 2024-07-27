@@ -1135,10 +1135,6 @@ file = "options.txt"
 hash = "ac4369b8c4f1788792cb490966f2ac5ebd8229a3875d6fc5a0486aff35566a5a"
 
 [[files]]
-file = "packwiz-installer-bootstrap.jar"
-hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
-
-[[files]]
 file = "resourcepacks/create-computercraft.pw.toml"
 hash = "d1eedbc027b542abaabb1323cb57c42c8f445121d6a9d619a4b0bb220164d3ac"
 metafile = true
