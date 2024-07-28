@@ -726,11 +726,6 @@ hash = "712ac3e3cca6cd0478dfeafac21f7926dba0c54763144ae168ed200d894e6464"
 metafile = true
 
 [[files]]
-file = "mods/just-enough-guns.pw.toml"
-hash = "55ef03d42ac10c83218246cbd961f6ce512e049bca5ce04c95526f85d0e264ad"
-metafile = true
-
-[[files]]
 file = "mods/just-enough-professions-jep.pw.toml"
 hash = "08a365f0717fbd5561ff746bc6c41185b0c84582a1cd834115b933266328a5ff"
 metafile = true
