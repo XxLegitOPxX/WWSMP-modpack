@@ -500,11 +500,6 @@ hash = "5bd0506bc0be25116b234f2b5af9447f60d82ae1cb6c5be4e12d8841f6c2501c"
 metafile = true
 
 [[files]]
-file = "mods/framework.pw.toml"
-hash = "688b011ac6619ffe9b237336b63b4e14a355a1d1fa30793e1b600a223c488369"
-metafile = true
-
-[[files]]
 file = "mods/ftb-backups-2.pw.toml"
 hash = "b3693e7a5647d4e28fc30ad3e85193c668a98a410dc3f425f19561cfea68957f"
 metafile = true
@@ -577,11 +572,6 @@ metafile = true
 [[files]]
 file = "mods/just-enough-calculation.pw.toml"
 hash = "712ac3e3cca6cd0478dfeafac21f7926dba0c54763144ae168ed200d894e6464"
-metafile = true
-
-[[files]]
-file = "mods/just-enough-guns.pw.toml"
-hash = "55ef03d42ac10c83218246cbd961f6ce512e049bca5ce04c95526f85d0e264ad"
 metafile = true
 
 [[files]]
@@ -827,6 +817,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "b0978cb7ae7b79c5be89b323ca1bd038f693ff6d11c43dfcbd63953964149af2"
+metafile = true
+
+[[files]]
+file = "mods/timeless-and-classics-zero.pw.toml"
+hash = "f888963ae45477f223a86386989d6928cb9541750a76388a365437d98242c76d"
 metafile = true
 
 [[files]]
