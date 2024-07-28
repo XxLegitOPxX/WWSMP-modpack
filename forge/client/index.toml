@@ -596,11 +596,6 @@ hash = "02e3f47ff5a2fa074996387e14c81718e5c4df16dbe75ba1e1021157352f7815"
 metafile = true
 
 [[files]]
-file = "mods/distant-horizons.pw.toml"
-hash = "6dc6226c9c9cb735ff22afaede63397e4f247a7afac965b3b1ad521ac792e6a8"
-metafile = true
-
-[[files]]
 file = "mods/domum-ornamentum.pw.toml"
 hash = "ac9e325de2ca1030bdf19789f676285ae573feb839ecb518cc7bc9f0b82d68e2"
 metafile = true
@@ -632,7 +627,7 @@ metafile = true
 
 [[files]]
 file = "mods/farsight.pw.toml"
-hash = "0edc2b9d68e308c820489f8bb378f1eb540ba684ac23be242fcc4655f05ff423"
+hash = "dfc20a777f157ecedcad0dd1750b7063e6ebbc76155b294bffb987a767ad1f1e"
 metafile = true
 
 [[files]]
@@ -643,11 +638,6 @@ metafile = true
 [[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "5bd0506bc0be25116b234f2b5af9447f60d82ae1cb6c5be4e12d8841f6c2501c"
-metafile = true
-
-[[files]]
-file = "mods/framework.pw.toml"
-hash = "688b011ac6619ffe9b237336b63b4e14a355a1d1fa30793e1b600a223c488369"
 metafile = true
 
 [[files]]
