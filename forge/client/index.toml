@@ -511,6 +511,11 @@ hash = "1e56f528d8e21b0cf9c52c3d6deea2a4eafa408170b39a070195dbf66617f373"
 metafile = true
 
 [[files]]
+file = "mods/copycats.pw.toml"
+hash = "a678f13d916475b068db2d6ee53e58713f2eb8bebf7cd728c52c45107596f08a"
+metafile = true
+
+[[files]]
 file = "mods/coroutil.pw.toml"
 hash = "9f2bb57e05bad305f03c25c275c6d11e952835a41b2da68dba10a0bd1f3f6261"
 metafile = true
@@ -533,6 +538,11 @@ metafile = true
 [[files]]
 file = "mods/create-deco.pw.toml"
 hash = "0bbb0d5c211ddf6fd76fd602167b1f012dbfe56e72c5f2568ec1089cd930ece0"
+metafile = true
+
+[[files]]
+file = "mods/create-diesel-generators.pw.toml"
+hash = "55e774a83edf2998fd3cb94a5a8e848648e2ea102d4cd689924b56424ff93f33"
 metafile = true
 
 [[files]]
@@ -851,11 +861,6 @@ hash = "f01805c7bb1b79918161366abd9e98beb63d53bd8e1c59d60467c661209b3ac3"
 metafile = true
 
 [[files]]
-file = "mods/nyfs-quivers.pw.toml"
-hash = "b59f6c4b1ed12ee74b48d07a6a8504bf6629450f37846107ccd9f27ddcea7232"
-metafile = true
-
-[[files]]
 file = "mods/observable.pw.toml"
 hash = "b21b3850e6f670fc456ae89816a714fffd9dc71bfcd5bb9e631f03239979dc3b"
 metafile = true
@@ -1087,7 +1092,12 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "ac4369b8c4f1788792cb490966f2ac5ebd8229a3875d6fc5a0486aff35566a5a"
+hash = "97953ad0452a82ea4cbb718a6cabca10c792a55b0b18806137a06ec70ee8de91"
+
+[[files]]
+file = "resourcepacks/better-leather-armor.pw.toml"
+hash = "a8ada6215c4c577db19569044954e7e32aaef326c532443a590ad24f80405b2e"
+metafile = true
 
 [[files]]
 file = "resourcepacks/create-computercraft.pw.toml"

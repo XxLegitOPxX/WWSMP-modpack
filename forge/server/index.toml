@@ -405,6 +405,11 @@ hash = "0ba6db78da1977f43dc0e00ee435a456440c5eda781585a7961b9691280dba24"
 metafile = true
 
 [[files]]
+file = "mods/copycats.pw.toml"
+hash = "a678f13d916475b068db2d6ee53e58713f2eb8bebf7cd728c52c45107596f08a"
+metafile = true
+
+[[files]]
 file = "mods/coroutil.pw.toml"
 hash = "9f2bb57e05bad305f03c25c275c6d11e952835a41b2da68dba10a0bd1f3f6261"
 metafile = true
@@ -427,6 +432,11 @@ metafile = true
 [[files]]
 file = "mods/create-deco.pw.toml"
 hash = "0bbb0d5c211ddf6fd76fd602167b1f012dbfe56e72c5f2568ec1089cd930ece0"
+metafile = true
+
+[[files]]
+file = "mods/create-diesel-generators.pw.toml"
+hash = "55e774a83edf2998fd3cb94a5a8e848648e2ea102d4cd689924b56424ff93f33"
 metafile = true
 
 [[files]]
@@ -692,11 +702,6 @@ metafile = true
 [[files]]
 file = "mods/numismatics.pw.toml"
 hash = "f01805c7bb1b79918161366abd9e98beb63d53bd8e1c59d60467c661209b3ac3"
-metafile = true
-
-[[files]]
-file = "mods/nyfs-quivers.pw.toml"
-hash = "b59f6c4b1ed12ee74b48d07a6a8504bf6629450f37846107ccd9f27ddcea7232"
 metafile = true
 
 [[files]]
