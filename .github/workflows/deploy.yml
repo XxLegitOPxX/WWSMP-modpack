@@ -2,7 +2,7 @@ name: Deploy modpacks to GitHub Pages
 
 on:
   push:
-    tags: ["*"]
+    #tags: ["*"]
 
 jobs:
   deploy:
