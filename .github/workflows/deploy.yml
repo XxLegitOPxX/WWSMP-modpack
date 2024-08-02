@@ -16,7 +16,6 @@ jobs:
         run: |
           mkdir -p deployment/forge
           cp -r forge/client deployment/forge/
-          cp -r forge/server deployment/forge/
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
