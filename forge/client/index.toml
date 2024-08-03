@@ -741,7 +741,7 @@ metafile = true
 
 [[files]]
 file = "mods/interactive.pw.toml"
-hash = "3fc2c0c66bc9eea83561f2b2bafd4b2358dfef382bff4a3cbca5f15c72ca01e7"
+hash = "4939e34898b8f81a2231382be62c435b42d977fa8636fac1e9336f2ce1c23320"
 metafile = true
 
 [[files]]
