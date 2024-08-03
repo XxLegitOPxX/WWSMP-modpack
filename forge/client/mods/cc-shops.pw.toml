@@ -1,0 +1,8 @@
+name = "CC Shops"
+filename = "ccshops-0.0.1.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/5456/848/ccshops-0.0.1.jar"
+hash-format = "sha256"
+hash = "6b86c5e551793e8d0b96f33cc78a0413847abce886e6d1f35894e4d28759c68d"

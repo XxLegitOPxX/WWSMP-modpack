@@ -1,0 +1,8 @@
+name = "Simple Shops"
+filename = "simpleshops-1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/4716/851/simpleshops-1.2.2.jar"
+hash-format = "sha256"
+hash = "2afb0026e34601f1da9d0a11ddea41a63de69df110d9a3d0ada0523a33f9eeb2"
