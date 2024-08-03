@@ -397,11 +397,15 @@ file = "kubejs/assets/kubejs/textures/item/yamato.png"
 hash = "689f1c87b49c594a7cfe333d08daeb3c9b0138322c1e217ef7db39e2daecd7e3"
 
 [[files]]
-file = "kubejs/client_scripts/ClockworkPonders.js.disabled"
+file = "kubejs/client_scripts/jsconfig.json"
+hash = "dee1340c5e7927f5675987957c6b198f9ca2e1e731291d72396278dddc066a04"
+
+[[files]]
+file = "kubejs/client_scripts/src/ClockworkPonders.js.disabled"
 hash = "1ffda1130056087c469a45b9f0d6f2255dfbefa07308ebf362f1d8dd0af64011"
 
 [[files]]
-file = "kubejs/client_scripts/script.js"
+file = "kubejs/client_scripts/src/script.js"
 hash = "965912307df89befa6f478de80f472697a719c264e31386717bdfc2f7f59e502"
 
 [[files]]
@@ -417,11 +421,19 @@ file = "kubejs/config/defaultoptions.txt"
 hash = "245c3d7688ca8fa4bb1abe4dfc8208d782d90287938c4fbbde614243f5fde12c"
 
 [[files]]
+file = "kubejs/config/probe-settings.json"
+hash = "abe85f036e5b87f07e85b73f42a66374f7f584c27b2a86167f762788be1820ca"
+
+[[files]]
 file = "kubejs/config/probejs.json"
 hash = "2d27c39d5c7a1125cb00dc6406ec9ccf4b499e00c4017b65e74f1ea75a78c824"
 
 [[files]]
-file = "kubejs/startup_scripts/script.js"
+file = "kubejs/startup_scripts/jsconfig.json"
+hash = "a9e6912b8515be242dd76c6c9a536a8d7c73f6b8b949787f538436ebeafbb7ee"
+
+[[files]]
+file = "kubejs/startup_scripts/src/script.js"
 hash = "c04aa393b8d14ab4b1cb16473c05bfe530c189fb38d661153bcf19ea255e55af"
 
 [[files]]
