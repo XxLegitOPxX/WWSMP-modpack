@@ -1,4 +1,6 @@
 .scripts/wwsmp-pygsheets-428223-95a542d6b1db.json
+/forge/client/.probe
+/forge/client/.vscode
 
 *.mrpack
 *.zip
