@@ -381,6 +381,50 @@ file = "icon.png"
 hash = "aeae7619e720d3a888525b2d559db062cbf7f2a8d3b55bcb81c12c2075c5640f"
 
 [[files]]
+file = "kubejs/README.txt"
+hash = "02d6feb3afe1d9c96e137f8baaa71de982f1af0a2b37fbcba73f34ee59ebbd4d"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/example_block.png"
+hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/example_item.png"
+hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/yamato.png"
+hash = "689f1c87b49c594a7cfe333d08daeb3c9b0138322c1e217ef7db39e2daecd7e3"
+
+[[files]]
+file = "kubejs/client_scripts/ClockworkPonders.js.disabled"
+hash = "1ffda1130056087c469a45b9f0d6f2255dfbefa07308ebf362f1d8dd0af64011"
+
+[[files]]
+file = "kubejs/client_scripts/script.js"
+hash = "965912307df89befa6f478de80f472697a719c264e31386717bdfc2f7f59e502"
+
+[[files]]
+file = "kubejs/config/client.properties"
+hash = "b546b552d055c7f5e2bc91e6ff11abffc1f35f37e5f93e13052479b869a6cbd8"
+
+[[files]]
+file = "kubejs/config/common.properties"
+hash = "1a57c0702fe0c0fce96ffb21fff33be872d037626e04d4018447499a6be6f997"
+
+[[files]]
+file = "kubejs/config/defaultoptions.txt"
+hash = "245c3d7688ca8fa4bb1abe4dfc8208d782d90287938c4fbbde614243f5fde12c"
+
+[[files]]
+file = "kubejs/config/probejs.json"
+hash = "2d27c39d5c7a1125cb00dc6406ec9ccf4b499e00c4017b65e74f1ea75a78c824"
+
+[[files]]
+file = "kubejs/startup_scripts/script.js"
+hash = "c04aa393b8d14ab4b1cb16473c05bfe530c189fb38d661153bcf19ea255e55af"
+
+[[files]]
 file = "mods/additional-additions-forge.pw.toml"
 hash = "624a45bd6287e67799f3c2c21f2abbce85cb9f082df3fb5be714574d15788b2e"
 metafile = true
@@ -426,6 +470,11 @@ hash = "8a27a482bf7dbf9b8a96fe9a3e8bf8e08ca1d376c6cf13bccf49f0d5191d56fa"
 metafile = true
 
 [[files]]
+file = "mods/attributefix.pw.toml"
+hash = "e9179c6f362e82c08ffb103a8e19c7dbdbeb18b24cca69ffacbd8b1929e23031"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "a96886fe12b0156b383437c664125ca8989e7c972728a37e2ac36b35dcf29bec"
 metafile = true
@@ -466,11 +515,6 @@ hash = "b0119b17c7c9a075780d55dc87749942a835365db5578102d6250db8875e8267"
 metafile = true
 
 [[files]]
-file = "mods/blockui.pw.toml"
-hash = "858d148713ff16c7a8f554b2b8e100fb04257da00c44757646a0dc0c8b3ae32f"
-metafile = true
-
-[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "058699e4832d0cf5396c5ea29244100f0c0e39a8d7aa5b64c2afdcc3cb8c8145"
 metafile = true
@@ -481,8 +525,18 @@ hash = "0722da0022c3d9dcf6be08f561828222f61911b62aed7d8c75f71c126e12e1b8"
 metafile = true
 
 [[files]]
+file = "mods/cc-shops.pw.toml"
+hash = "46d80681681d833063913a139021205cb60f483a34616e7a1f87d51fd0fc16be"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "b5b9fb98a3c556205fec1e4a502b2065c596b86e13d6fdace4b2f209ca496257"
+metafile = true
+
+[[files]]
+file = "mods/cc-vs.pw.toml"
+hash = "a1135cfbd16a383627318aaa7b4676f7576224ccfa46df656eba4839031b3fcc"
 metafile = true
 
 [[files]]
@@ -603,11 +657,6 @@ metafile = true
 [[files]]
 file = "mods/decorative-blocks.pw.toml"
 hash = "02e3f47ff5a2fa074996387e14c81718e5c4df16dbe75ba1e1021157352f7815"
-metafile = true
-
-[[files]]
-file = "mods/domum-ornamentum.pw.toml"
-hash = "ac9e325de2ca1030bdf19789f676285ae573feb839ecb518cc7bc9f0b82d68e2"
 metafile = true
 
 [[files]]
@@ -776,11 +825,6 @@ hash = "207ea5c3ad00aee495de4d614c504d443c141068a2ddf0554f5a7829923cfeec"
 metafile = true
 
 [[files]]
-file = "mods/lightmans-currency.pw.toml"
-hash = "3d6a7287e714a85cd2c512fee4b168326c7088d01df45e808aaaf7924827a4d2"
-metafile = true
-
-[[files]]
 file = "mods/load-my-resources-forge.pw.toml"
 hash = "0d75691335e64e03b2b4a628d7cfadd286a951b6c287eeee1db0282b557680ad"
 metafile = true
@@ -816,11 +860,6 @@ hash = "eab12c7fddf20f293b8726f7553d2c0c0b6c578a2ba03ddf59ae40f6e684e2ce"
 metafile = true
 
 [[files]]
-file = "mods/minecolonies.pw.toml"
-hash = "81ca24438b9a4b80204182ef72f38997a3e946884c26e225c8e18fe30cc71d85"
-metafile = true
-
-[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "200dc9d52925894d95675e92cb306f0982a3af0cb0376722c4422bd530685b24"
 metafile = true
@@ -833,11 +872,6 @@ metafile = true
 [[files]]
 file = "mods/mrcrayfish-furniture-mod.pw.toml"
 hash = "e855300be1354899595f3e37e3f080647ae0ae0ac84df292441608c3f8327e21"
-metafile = true
-
-[[files]]
-file = "mods/multi-piston.pw.toml"
-hash = "680583e1e6c2b4aa4251b25f4887d7e865dfa889268052c498ef152dedee812a"
 metafile = true
 
 [[files]]
@@ -936,6 +970,11 @@ hash = "3f3297e9f92ea76f921b005048281b8de80d3ac1c92f705c7ba5491bfd0524f5"
 metafile = true
 
 [[files]]
+file = "mods/simple-shops.pw.toml"
+hash = "233ed7d109551a9d15f768ede35974caf20b7bbc8188a934a8cbc0a082087609"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "8be59d4bd5e7aada4edc43d17aabd1efd87a6837f89033e8f68193c4958fddc4"
 metafile = true
@@ -958,11 +997,6 @@ metafile = true
 [[files]]
 file = "mods/storage-drawers.pw.toml"
 hash = "ce92a2870c50085508caf9b680efffdfdd50b54e240e7bf047b6833c66ac139e"
-metafile = true
-
-[[files]]
-file = "mods/structurize.pw.toml"
-hash = "3b39918a7fcc1be7428edc3f406cd832a2bcc5ceeaa5e7178dd9c1e110ec5c9e"
 metafile = true
 
 [[files]]
@@ -1001,8 +1035,8 @@ hash = "f888963ae45477f223a86386989d6928cb9541750a76388a365437d98242c76d"
 metafile = true
 
 [[files]]
-file = "mods/towntalk.pw.toml"
-hash = "32e0f6bce7adc5b09ba3350110ac4be7ee04e556db35ba1db97bacfabd31e4dc"
+file = "mods/toms-peripherals.pw.toml"
+hash = "3f87c2d2802ce338445fbd8f4d9a97f320d6c2b09bd2e8d3354a6f6d63b83ea2"
 metafile = true
 
 [[files]]
@@ -1017,7 +1051,7 @@ metafile = true
 
 [[files]]
 file = "mods/valkyrien-skies.pw.toml"
-hash = "d0b9e330714c613ba207842facd66054188ad4cb60538f455487a8ca04d1b82a"
+hash = "08c2f56bec64aeb43ae003370351eaae0f1474387f9663765b281a25ba2049ce"
 metafile = true
 
 [[files]]
@@ -1089,10 +1123,6 @@ metafile = true
 file = "mods/zombie-awareness.pw.toml"
 hash = "081b32c88849a82d01a3a98871b9860f395822179747d65812e86e9098e9cc61"
 metafile = true
-
-[[files]]
-file = "options.txt"
-hash = "97953ad0452a82ea4cbb718a6cabca10c792a55b0b18806137a06ec70ee8de91"
 
 [[files]]
 file = "resourcepacks/better-leather-armor.pw.toml"
