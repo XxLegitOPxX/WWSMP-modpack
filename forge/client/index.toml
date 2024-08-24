@@ -882,6 +882,11 @@ hash = "e72f73611904e14d915418f0e3c6cb483cdc600e211375c2eceb393fec5b80f1"
 metafile = true
 
 [[files]]
+file = "mods/mowzies-mobs.pw.toml"
+hash = "1ff63ae9b415edabfe8467d67dcd412169b05582ae26c40d6bb6aae7b8809ccb"
+metafile = true
+
+[[files]]
 file = "mods/mrcrayfish-furniture-mod.pw.toml"
 hash = "e855300be1354899595f3e37e3f080647ae0ae0ac84df292441608c3f8327e21"
 metafile = true
@@ -979,6 +984,16 @@ metafile = true
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "3f3297e9f92ea76f921b005048281b8de80d3ac1c92f705c7ba5491bfd0524f5"
+metafile = true
+
+[[files]]
+file = "mods/silent-gear.pw.toml"
+hash = "71a6b671d226294e4bb6320c3cd46366f7c45f8487732c37cd3a6c8f74421109"
+metafile = true
+
+[[files]]
+file = "mods/silent-lib.pw.toml"
+hash = "7f281333e1c573bc3673446c291d82f3137bfc7de6a5256d61417f67be7b40bc"
 metafile = true
 
 [[files]]
