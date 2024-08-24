@@ -5928,6 +5928,11 @@ hash = "4d7d45d515ea2a7f786672b8b0dd82d5f292b69237500b71216dffdc5655fcc6"
 metafile = true
 
 [[files]]
+file = "mods/eureka-ships.pw.toml"
+hash = "c61734cdfd93db9cc1509659e5719d8db79ffafec8eb9832776a0253f6096cdf"
+metafile = true
+
+[[files]]
 file = "mods/fancymenu.pw.toml"
 hash = "ce5b6e5f46fe0386b0a1c6e7aa2e811d45ff9eaa36b8ede42678939ee86de8eb"
 metafile = true
