@@ -6404,7 +6404,7 @@ metafile = true
 
 [[files]]
 file = "servers.dat"
-hash = "919810272b891e1f8ccb3597f225553d4d758570e81dc2fcf5b72b602f0a551d"
+hash = "ba9a9f0b81e5203cb608ca51e7d8aab9bee7575ca8489d8db3aec011baabd340"
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
