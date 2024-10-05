@@ -6608,11 +6608,6 @@ hash = "583961055f3e588845076ace49394c9ca830706a73eb1b4a4cbfe4db9f0950e9"
 metafile = true
 
 [[files]]
-file = "mods/zombie-awareness.pw.toml"
-hash = "081b32c88849a82d01a3a98871b9860f395822179747d65812e86e9098e9cc61"
-metafile = true
-
-[[files]]
 file = "resourcepacks/better-leather-armor.pw.toml"
 hash = "a8ada6215c4c577db19569044954e7e32aaef326c532443a590ad24f80405b2e"
 metafile = true
