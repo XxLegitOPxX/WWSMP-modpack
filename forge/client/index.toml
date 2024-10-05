@@ -5819,7 +5819,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "0ba6db78da1977f43dc0e00ee435a456440c5eda781585a7961b9691280dba24"
+hash = "bfd96e4905f01d0aa1917fe581093afe7ad3b51386be9753ef2371fac24f6c1d"
 metafile = true
 
 [[files]]
@@ -5949,7 +5949,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "6ecc31d75d379730df8fe950438b4ca26ed1daa8612406374552665f9222f9ea"
+hash = "9a46e878cc447fa6375554fddd18cfe4f7a04cd232ae1685be6af7c7f75b617a"
 metafile = true
 
 [[files]]
