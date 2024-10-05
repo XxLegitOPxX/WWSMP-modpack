@@ -1,0 +1,13 @@
+name = "Mekanism The Factory Must Grow Compatibility"
+filename = "mekanism_tfmg_compat-0.3-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cad45eb811bb37c8900b80e54320a2b813f3d54c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5769324
+project-id = 1087826
