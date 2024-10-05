@@ -1,0 +1,13 @@
+name = "Create: Blazing Hot"
+filename = "create_blazing_hot-0.6.2+forge-mc1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c30fdf3687dda65fbcfccb42a7aeb4e49c3ac447"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5690241
+project-id = 1070455
